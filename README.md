@@ -2,7 +2,7 @@
 
 ### HW
 
-![alt text](https://raw.githubusercontent.com/federicogramos/de1d/main/otherFiles/medidas.png)
+![alt text](https://raw.githubusercontent.com/federicogramos/de1d/main/manual/otherFiles/medidas.png)
 
 
 
