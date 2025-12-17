@@ -1,0 +1,14 @@
+// timerInt_delays.h
+////////////////////////////////////////////////////////////////////////////////
+#ifndef __TIMER_FIXED_DELAYS_H
+#define __TIMER_FIXED_DELAYS_H
+
+// DEFINICION DE TIEMPOS POR PARTE DEL USUARIO
+const type_timerFixedSize timerFixedDelayConstant[CANT_FIXED_TIMERS]=
+	{
+	20,//TMR_FIXED_LONG: 5SEG TIEMPO QUE DEBE DEJAR SIN TOCAR PULSADOR PARA QUE TOME DATO
+	1, //TMR_FIXED_BLINK_ON: 250MS LED ENCENDIDO INDICACION VISUAL
+	1, //TMR_FIXED_BLINK_ON_ZERO
+	1  //TMR_FIXED_BLINK_OFF: 250MS LED APAGADO INDICACION VISUAL
+	};
+#endif//__TIMER_DELAYS_H
